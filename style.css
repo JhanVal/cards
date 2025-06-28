@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background:  linear-gradient(black, rgb(0, 19, 128));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+h1 {
+    margin-top: 15px;
+    color: aliceblue;
+}
+
+h2 {
+    color: aliceblue;
+    font-size: 13pt;
+}
+
+.cajota {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 40px;
+    border-radius: 10px;
+    background-color: rgba(167, 167, 174, 0.23);
+}
+
+.uno {
+    width: 250px;
+    height:80px;
+    background-color: rgb(14, 73, 200);
+    margin: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dos {
+    width: 250px;
+    height:80px;
+    background-color: rgb(14, 73, 200);
+    margin: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tres {
+    width: 250px;
+    height:80px;
+    background-color: rgb(14, 73, 200);
+    margin: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cuatro {
+    width: 250px;
+    height:80px;
+    background-color: rgb(14, 73, 200);
+    margin: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cinco {
+    width: 250px;
+    height:80px;
+    background-color: rgb(14, 73, 200);
+    margin: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.seis {
+    width: 250px;
+    height:80px;
+    background-color: rgb(14, 73, 200);
+    margin: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.siete {
+    width: 250px;
+    height:80px;
+    background-color: rgb(14, 73, 200);
+    margin: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ocho {
+    width: 250px;
+    height:80px;
+    background-color: rgb(14, 73, 200);
+    margin: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nueve {
+    width: 250px;
+    height:80px;
+    background-color: rgb(14, 73, 200);
+    margin: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.uno:hover {
+    background-image: url(pizza.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cuatro:hover {
+    background-image: url(strand.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
